@@ -76,4 +76,4 @@ Contributions to the Image Sharpness Categorizer are welcome. Please fork the re
 
 ## License
 
-The Image Sharpness Categorizer is open-sourced under the MIT License. For more details, see the LICENSE file in the repository.
+The Image Sharpness Categorizer is open-sourced under the MIT License. For more details, see the [LICENSE](./LICENSE.md) file in the repository.
